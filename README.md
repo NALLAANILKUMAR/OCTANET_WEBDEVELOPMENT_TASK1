@@ -1,6 +1,8 @@
 # OCTANET_WEBDEVELOPMENT_TASK1
 
-GOTO THIS WEBSITE FOR PREVIEW 
+GOTO THIS WEBSITE FOR image
+![image](https://github.com/NALLAANILKUMAR/OCTANET_WEBDEVELOPMENT_TASK1/assets/169275072/79e76e38-ee8e-4fa4-bc87-fc9411a27dfb)
+
 
 file:///C:/Users/nalla/Downloads/AI-html-1.0.0/AI-html-1.0.0/index.html
 # AI.Tech - Artificial Intelligence HTML Template
